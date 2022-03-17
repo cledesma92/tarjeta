@@ -1,0 +1,15 @@
+{
+  "name": "bautismo-santino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "author": "Christian Ledesma",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
+}
